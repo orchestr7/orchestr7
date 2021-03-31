@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=akuleshov7&theme=default)
 
 My name is Andrey Kuleshov, I am the software developer with 7+ years of professional
