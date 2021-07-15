@@ -5,8 +5,7 @@ experience in the industry. I have graduated from the MSU (top#1 Russian Univers
 Worked in well-known companies like Intel, Deutsche Bank, Huawei.
 Developed mostly everything: from the optimizing c/c++ compilers to high-loaded
 Java-applications for invest banking. From linters for Python and Kotlin to BigData applications on Scala/Spark.
-A fan of JVM-world, C++ hater. Feel myself as opensource and Kotlin enthusiast (fake news). The creator of [**diktat**](https://github.com/cqfn/diktat) and [**ktoml**](https://github.com/akuleshov7/ktoml) projects.
-See my [**blog**](http://akuleshov7.com/) or my [**CV**](https://github.com/akuleshov7/CV) to know more about me.
+A fan of JVM-world, C++ hater. Feel myself as opensource and Kotlin enthusiast (fake news). The creator of [**diktat**](https://github.com/cqfn/diktat), [**save**](https://github.com/cqfn/save) and [**ktoml**](https://github.com/akuleshov7/ktoml) projects. Cotributor to [ktlint](https://github.com/pinterest/ktlint) and [kotlin](https://github.com/JetBrains/kotlin). Check my [**blog**](http://akuleshov7.com/) or my [**CV**](https://github.com/akuleshov7/CV) to know more about me.
 
 **Tags:** #kotlin #java #static-analysis 
 
