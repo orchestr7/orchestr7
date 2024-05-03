@@ -1,6 +1,6 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=akuleshov7&theme=default)
 
-My name is Andrey Kuleshov, the software developer with 9+ years of professional
+My name is Andrey Kuleshov, the software developer with 10+ years of professional
 experience in the industry. Graduated from the CMC MSU (#1 Russian University).
 Worked in well-known companies: Intel, Deutsche Bank, Huawei.
 Developed mostly everything: from the optimizing c/c++ compilers to high-loaded
