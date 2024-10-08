@@ -1,4 +1,4 @@
-Software developer with 10+ years of professional experience in the industry. Graduated from the CMC MSU (#1 Russian University).
+Software developer with 12+ years of professional experience in the industry. Graduated from the CMC MSU.
 Worked in well-known companies: Intel, Deutsche Bank, Huawei.
 Developed mostly everything: from the optimizing c/c++ compilers to high-loaded
 Java-applications for invest banking. From linters for Python and Kotlin to BigData applications.
